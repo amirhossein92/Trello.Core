@@ -1,0 +1,9 @@
+/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Models/obj/Debug/netstandard2.0/Trello.Core.Models.csprojAssemblyReference.cache
+/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Models/obj/Debug/netstandard2.0/Trello.Core.Models.csproj.CoreCompileInputs.cache
+/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Models/obj/Debug/netstandard2.0/Trello.Core.Models.AssemblyInfoInputs.cache
+/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Models/obj/Debug/netstandard2.0/Trello.Core.Models.AssemblyInfo.cs
+/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Models/bin/Debug/netstandard2.0/Trello.Core.Models.deps.json
+/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Models/bin/Debug/netstandard2.0/Trello.Core.Models.dll
+/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Models/bin/Debug/netstandard2.0/Trello.Core.Models.pdb
+/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Models/obj/Debug/netstandard2.0/Trello.Core.Models.dll
+/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Models/obj/Debug/netstandard2.0/Trello.Core.Models.pdb

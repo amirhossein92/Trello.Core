@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.csproj",
-      "projectName": "Trello.Core",
-      "projectPath": "/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.csproj",
+      "projectUniqueName": "/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Console/Trello.Core.Console.csproj",
+      "projectName": "Trello.Core.Console",
+      "projectPath": "/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Console/Trello.Core.Console.csproj",
       "packagesPath": "/Users/amirhossein/.nuget/packages/",
-      "outputPath": "/Users/amirhossein/Projects/Git/Trello.Core/obj/",
+      "outputPath": "/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Console/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

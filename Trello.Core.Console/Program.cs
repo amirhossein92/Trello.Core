@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Trello.Core
+namespace Trello.Core.Console
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            System.Console.WriteLine("Hello World!");
         }
     }
 }

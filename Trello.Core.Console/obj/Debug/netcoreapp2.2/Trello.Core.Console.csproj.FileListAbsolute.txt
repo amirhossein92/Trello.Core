@@ -1,0 +1,11 @@
+/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Console/obj/Debug/netcoreapp2.2/Trello.Core.Console.csprojAssemblyReference.cache
+/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Console/obj/Debug/netcoreapp2.2/Trello.Core.Console.csproj.CoreCompileInputs.cache
+/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Console/obj/Debug/netcoreapp2.2/Trello.Core.Console.AssemblyInfoInputs.cache
+/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Console/obj/Debug/netcoreapp2.2/Trello.Core.Console.AssemblyInfo.cs
+/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Console/bin/Debug/netcoreapp2.2/Trello.Core.Console.deps.json
+/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Console/bin/Debug/netcoreapp2.2/Trello.Core.Console.runtimeconfig.json
+/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Console/bin/Debug/netcoreapp2.2/Trello.Core.Console.runtimeconfig.dev.json
+/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Console/bin/Debug/netcoreapp2.2/Trello.Core.Console.dll
+/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Console/bin/Debug/netcoreapp2.2/Trello.Core.Console.pdb
+/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Console/obj/Debug/netcoreapp2.2/Trello.Core.Console.dll
+/Users/amirhossein/Projects/Git/Trello.Core/Trello.Core.Console/obj/Debug/netcoreapp2.2/Trello.Core.Console.pdb
